@@ -1,0 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Abhaya+Libre);
+@import url(//fonts.googleapis.com/css?family=Cormorant+Garamond);
+@import url(//fonts.googleapis.com/css?family=Indie+Flower);
+
+.main{
+            background-color: lightpink;
+            color: white;
+            border-style: dotted; 
+            font-family: 'Indie+Flower', sans-serif;
+}
+
+h1{
+    font-family: 'Abhaya+Libre', sans-serif;
+    color: magenta;
+}
+h2{ 
+    font-family: 'Cormorant+Garamond', sans-serif;
+    color:black;
+}
