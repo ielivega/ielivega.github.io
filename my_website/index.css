@@ -3,17 +3,17 @@
 @import url(//fonts.googleapis.com/css?family=Indie+Flower);
 
 .main{
-            background-color: lightpink;
-            color: white;
-            border-style: dotted; 
-            font-family: 'Indie+Flower', sans-serif;
+    background-color: lightpink;
+    color: red;
+    border-style: dotted; 
+    font-family: 'Indie+Flower', sans-serif;
 }
 
-h1{
+.second{
     font-family: 'Abhaya+Libre', sans-serif;
-    color: magenta;
+    color: lightblue;
 }
-h2{ 
+.third{ 
     font-family: 'Cormorant+Garamond', sans-serif;
-    color:black;
+    color: blue;
 }
